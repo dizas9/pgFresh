@@ -2,16 +2,16 @@ import React from "react";
 
 export default function HeroSection() {
   return (
-    <div className="h-[95vh] mt-[5rem] flex">
+    <div className="xl:h-screen 2xl:h-screen my-[5rem] flex">
       <div className=" flex flex-col w-[45vw] h-[100%] items-center gap-10">
-        <div className="mt-[10%]">
+        <div className="xl:mt-[10%]">
           <p className="text-[50px] font-Righteous ">Pg Fresh</p>
           <p className="text-[50px] font-Righteous text-bgHeader">
             Food Restaurant
           </p>
         </div>
 
-        <div className="ml-[16%]">
+        <div className="xl:ml-[16%] 2xl:ml-[27%]">
           <p className="font-Inter text-[24px] text-justify">
             It is a most popular name in the present world. Many people do not
             have their meal in their home, they always take meal and food from
