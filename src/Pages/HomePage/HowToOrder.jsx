@@ -52,7 +52,7 @@ export default function HowToOrder() {
 
       <div className="absolute top-[70%] font-Righteous">
         <img src="image/wavyRec.png" alt="" className=" my-10 w-screen " />
-        <p className="absolute top-32 right-[39%] text-3xl">
+        <p className="absolute xl:top-32 2xl:top-48 xl:right-[39%] 2xl:right-[42%] text-3xl">
           What Customers Say
         </p>
 
