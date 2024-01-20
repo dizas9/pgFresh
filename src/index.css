@@ -1,13 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700&family=Righteous&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base{
   .p{
-    @apply text-[blue] font-Inter
+    @apply text-[blue] font-Inter;
   }
   .btn{
-    @apply w-[180px] h-[55.76px] bg-bgBtn rounded-[7px] shadow-md hover:shadow-lg border-[black] scale-90 hover:scale-100;
+    @apply w-[180px] h-[55.76px] bg-bgBtn rounded-[7px] shadow-md hover:shadow-lg border-[black] scale-90 hover:scale-100 text-bgMain font-Inter font-bold;
+  }
+  .cardbox{
+    @apply w-[30%] h-[70%]  bg-opacity-80 rounded-tl-[100px] rounded-br-[100px] xl:border-[15px] 2xl:border-[20px] border-bgHeader overflow-hidden;
+  }
+  .cardbox .img{
+    @apply h-[100%] object-cover;
+  }
+  .orderbox{
+    @apply w-[20%] h-[40%] bg-white rounded-[15px] border-2 absolute top-[20%] border-[yellow] border-opacity-90;
   }
 }
