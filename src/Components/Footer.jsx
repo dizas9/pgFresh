@@ -4,7 +4,7 @@ import { Navdata } from "./Navdata";
 export default function Footer() {
   return (
     <>
-      <div className="h-fit xl:mt-[4%] px-10 py-10 flex justify-evenly font-Inter bg-bgFooter w-full">
+      <div className="h-fit xl:mt-[4%] 2xl:mt-[0%] px-10 py-10 flex justify-evenly font-Inter bg-bgFooter w-full">
         <div className="w-[30%] flex flex-col gap-5">
           <p className="text-cardBorder text-[25px] font-bold">Fresh Food</p>
 
