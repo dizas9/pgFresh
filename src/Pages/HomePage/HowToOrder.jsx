@@ -52,7 +52,7 @@ export default function HowToOrder() {
 
       <div className="absolute top-[70%] font-Righteous">
         <img src="image/wavyRec.png" alt="" className=" my-10 w-screen " />
-        <p className="absolute xl:top-32 2xl:top-48 xl:right-[39%] 2xl:right-[42%] text-3xl">
+        <p className="absolute xl:top-40 2xl:top-48 xl:right-[39%] 2xl:right-[42%] text-3xl">
           What Customers Say
         </p>
 
@@ -67,7 +67,7 @@ export default function HowToOrder() {
               <img
                 src="image/user1jpg.jpg"
                 alt=""
-                className="w-16 h-16 border-[5px] border-bgHeader rounded-full object-cover absolute bottom-[15px] z-20"
+                className="w-16 h-16 border-[5px] border-bgHeader rounded-full object-cover absolute bottom-[15px] z-10"
               />
             </div>
 
@@ -91,7 +91,7 @@ export default function HowToOrder() {
               <img
                 src="image/user1jpg.jpg"
                 alt=""
-                className="w-16 h-16 border-[5px] border-bgHeader rounded-full object-cover absolute bottom-[15px] z-20"
+                className="w-16 h-16 border-[5px] border-bgHeader rounded-full object-cover absolute bottom-[15px] z-10"
               />
             </div>
 

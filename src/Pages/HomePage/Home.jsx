@@ -4,6 +4,7 @@ import PopularDish from './PopularDish'
 import AboutUsSection from './AboutUsSection'
 import MenuSection from './MenuSection'
 import HowToOrder from './HowToOrder'
+import JoinUsSection from './JoinUsSection'
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <AboutUsSection/>
       <MenuSection/>
       <HowToOrder/>
+      <JoinUsSection/>
     </div>
   )
 }
