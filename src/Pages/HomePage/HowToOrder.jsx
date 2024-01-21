@@ -67,7 +67,7 @@ export default function HowToOrder() {
               <img
                 src="image/user1jpg.jpg"
                 alt=""
-                className="w-16 h-16 border-[5px] border-bgHeader rounded-full object-cover absolute bottom-[15px] z-10"
+                className="w-16 h-16 border-[5px] border-bgHeader rounded-full object-cover absolute xl:bottom-[15px] 2xl:bottom-[60px] z-10"
               />
             </div>
 
@@ -91,7 +91,7 @@ export default function HowToOrder() {
               <img
                 src="image/user1jpg.jpg"
                 alt=""
-                className="w-16 h-16 border-[5px] border-bgHeader rounded-full object-cover absolute bottom-[15px] z-10"
+                className="w-16 h-16 border-[5px] border-bgHeader rounded-full object-cover absolute xl:bottom-[15px] 2xl:bottom-[60px] z-10"
               />
             </div>
 
