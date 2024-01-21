@@ -14,7 +14,7 @@ export default function HowToOrder() {
 
             <p className="text-xl">Select Dieshes</p>
 
-            <p className="font-Inter text-center">
+            <p className="font-Inter text-center xl:leading-7 ">
               Lorem Ipsum has been the industry's standard dummy text ever since
               the 1500s, when an unknown printer took a galley of type and
               scrambled but also the leap into electronic typesetting, remaining
@@ -27,7 +27,7 @@ export default function HowToOrder() {
 
             <p className="text-xl">Select Dieshes</p>
 
-            <p className="font-Inter text-center">
+            <p className="font-Inter text-center xl:leading-7">
               Lorem Ipsum has been the industry's standard dummy text ever since
               the 1500s, when an unknown printer took a galley of type and
               scrambled but also the leap into electronic typesetting, remaining
@@ -40,7 +40,7 @@ export default function HowToOrder() {
 
             <p className="text-xl">Select Dieshes</p>
 
-            <p className="font-Inter text-center">
+            <p className="font-Inter text-center xl:leading-7">
               Lorem Ipsum has been the industry's standard dummy text ever since
               the 1500s, when an unknown printer took a galley of type and
               scrambled but also the leap into electronic typesetting, remaining
@@ -73,7 +73,7 @@ export default function HowToOrder() {
 
             <div className="shadow-2xl w-[70%] h-fit border-2 border-bgBtn rounded-xl absolute top-[65%] right-[15%] bg-white flex flex-col items-center">
               <img src="image/rating.svg" alt="" className="w-16 mt-8" />
-              <p className="font-Inter text-center p-2">
+              <p className="font-Inter text-center p-2 xl:leading-7">
                 Lorem Ipsum has been the industry's standard dummy text ever
                 since the 1500s, when an unknown printer took a galley of type
                 and scrambled
@@ -97,7 +97,7 @@ export default function HowToOrder() {
 
             <div className="shadow-2xl w-[70%] h-fit border-2 border-bgBtn rounded-xl absolute top-[65%] right-[15%] bg-white flex flex-col items-center">
               <img src="image/rating.svg" alt="" className="w-16 mt-8" />
-              <p className="font-Inter text-center p-2">
+              <p className="font-Inter text-center p-2 xl:leading-7">
                 Lorem Ipsum has been the industry's standard dummy text ever
                 since the 1500s, when an unknown printer took a galley of type
                 and scrambled

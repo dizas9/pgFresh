@@ -34,7 +34,7 @@ export default function MenuSection() {
 
       <div className="h-fit flex w-[90%] 2xl:w-[70%] flex-wrap 2xl:gap-20 xl:gap-10 justify-center 2xl:mx-[10%] items-center overflow-auto font-Inter">
         {menuDetails.map((menu, menuIndex) => (
-          <div className="w-[20%] xl:h-[60%] 2xl:h-[45%] bg-white rounded-[10px] shadow-xl">
+          <div className="w-[20%] xl:h-[65%] 2xl:h-[46%] bg-white rounded-[10px] shadow-xl">
             <div className="" key={menuIndex}>
               <img src={menu.src} alt="" className="" />
             </div>

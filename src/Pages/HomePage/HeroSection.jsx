@@ -4,8 +4,8 @@ export default function HeroSection() {
   return (
     <div className="xl:h-screen 2xl:h-screen my-[5rem] flex">
       <div className=" flex flex-col w-[45vw] h-[100%] items-center gap-10">
-        <div className="xl:mt-[10%]">
-          <p className="text-[50px] font-Righteous ">Pg Fresh</p>
+        <div className="xl:mt-[10%] ">
+          <p className="text-[50px] font-Righteous pb-3">Pg Fresh</p>
           <p className="text-[50px] font-Righteous text-bgHeader">
             Food Restaurant
           </p>
